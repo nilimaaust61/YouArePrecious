@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">YouArePrecious</string>
+    <string name="app_name_with_space"> You Are Precious </string>
 </resources>
